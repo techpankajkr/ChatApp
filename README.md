@@ -79,7 +79,7 @@ NODE_ENV=production
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/techpankajkr/full-stack_chatApp.git]
+git clone [https://github.com/techpankajkr/ChatApp.git]
 ```
 
 🏗️ Build and Run the Application
@@ -107,7 +107,7 @@ http://localhost
 Follow these simple steps to get the project up and running on your local Host using docker.
 
 ```bash
-git clone https://github.com/techpankajkr/full-stack_chatApp.git
+git clone https://github.com/techpankajkr/ChatApp.git
 ```
 
 ```bash
